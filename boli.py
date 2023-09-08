@@ -6,3 +6,7 @@ def sumar(a,b):
 
 print(sumar(2,2))
 print("ola mundo")
+
+print("ola mundo")
+print("ola mundo")
+print("ola mundo")
